@@ -1,0 +1,8 @@
+How to Play:
+Use your mouse to control the cursor.
+Use your Keyboard key 1,2,3,4 to switch cursor color.
+1 for red, 2 for blue, 3 for brown, 4 for green.
+Click the circle with your left mouse button or keyboard space.
+If the color match, gain a point.
+Else, lose a health.
+You will have 3 health in total.

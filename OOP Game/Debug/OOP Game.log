@@ -1,0 +1,21 @@
+﻿  Element.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Game.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Instructions.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Keyboard.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Main.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Menu.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Mouse.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Player.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Score.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  TextureManager.cpp
+E:\University Works\1st Year\Object Oriented Game Programming\OOP\OOP\OOP\OOP Game\Game.h(7,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Generating Code...
